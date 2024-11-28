@@ -12,6 +12,8 @@ KULLANILAN TEKNOLOJİLER
 - CoreData
 - Firebase
 - XCTests
+- AVKit
+- AVPlayer
 
 EKSTRA İSTEKLER
 - Kategorilere Göre Filtreleme ve Arama
